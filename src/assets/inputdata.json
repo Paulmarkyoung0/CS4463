@@ -1,0 +1,56 @@
+{"e1":{
+    "employeeId": "654321",
+    "lastName": "GRAHAM",
+    "firstName": "MALCOLM",
+    "phoneNumber": "1582286209",
+    "jobTitle": "SON",
+    "employeeImage": "C:/Users/Stego/654321.jpg",
+    "flag": "true",
+    "personalInformation":{
+        "homeAddress": "1111 Copper Cave",
+        "salary": "1000000",
+        "employmentStatus": "Active"
+    }
+},
+"e2":{
+    "employeeId": "123456",
+    "lastName": "ANASTASIA",
+    "firstName": "PETROVICH",
+    "phoneNumber": "2568586209",
+    "jobTitle": "AUTHOR",
+    "employeeImage": "C:/Users/Stego/123456.jpg",
+    "flag": "true",
+    "personalInformation":{
+        "homeAddress": "35463 Main St",
+        "salary": "2001230",
+        "employmentStatus": "Active"
+    }
+},
+"e3":{
+    "employeeId": "345678",
+    "lastName": "DORMA",
+    "firstName": "SABINE",
+    "phoneNumber": "3243586209",
+    "jobTitle": "WAITRESS",
+    "employeeImage": "C:/Users/Stego/345678.jpg",
+    "flag": "true",
+    "personalInformation":{
+        "homeAddress": "55 Portland Ave",
+        "salary": "5000000",
+        "employmentStatus": "Inactive"
+    }
+},
+"e4":{
+    "employeeId": "482277",
+    "lastName": "SMITH",
+    "firstName": "JORDAN",
+    "phoneNumber": "8513234209",
+    "jobTitle": "ACTOR",
+    "employeeImage": "C:/Users/Stego/482277.jpg",
+    "flag": "true",
+    "personalInformation":{
+        "homeAddress": "5411 Almond Dr",
+        "salary": "4000000",
+        "employmentStatus": "Active"
+    }
+}}

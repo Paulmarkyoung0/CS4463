@@ -1,15 +1,14 @@
 <template>
-  <img alt="Vue logo" src="./assets/logo.png">
-  <HelloWorld msg="Welcome to Your Vue.js App"/>
+  <ProjectFront msg="Employee Database"/>
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld.vue'
+import ProjectFront from './components/ProjectFront.vue'
 
 export default {
   name: 'App',
   components: {
-    HelloWorld
+    ProjectFront
   }
 }
 </script>
@@ -21,6 +20,22 @@ export default {
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
   color: #2c3e50;
-  margin-top: 60px;
+  margin-top: 40px;
+}
+h1 {
+  font-size: 4rem;
+  color: white;
+}
+html{
+  background: url('./assets/aaron-burson-wood-background.jpg') no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  color: white;
+  text-shadow: -.5px .5px 0 black,
+        .5px .5px 0 black,
+        .5px -.5px 0 black,
+        -.5px -.5px 0 black;
 }
 </style>
